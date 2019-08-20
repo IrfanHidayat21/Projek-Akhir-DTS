@@ -1,0 +1,36 @@
+tahun,jenis_komoditi,luas_panen,satuan_luas,jumlah_produksi,satuan_produksi
+2007,Padi,1544,Ha,8002,Ton
+2008,Padi,1640,Ha,8352,Ton
+2009,Padi,1974,Ha,11013,Ton
+2010,Padi,2015,Ha,11164,Ton
+2011,Padi,1223,Ha,9516,Ton
+2012,Padi,1897,Ha,11044,Ton
+2013,Padi,1744,Ha,10268,Ton
+2007,Jagung,20,Ha,39,Ton
+2008,Jagung,20,Ha,39,Ton
+2009,Jagung,16,Ha,32,Ton
+2010,Jagung,15,Ha,31,Ton
+2011,Jagung,12,Ha,23,Ton
+2012,Jagung,3,Ha,6,Ton
+2013,Jagung,,Ha,,Ton
+2007,Ubi Kayu,,Ha,,Ton
+2008,Ubi Kayu,,Ha,,Ton
+2009,Ubi Kayu,26,Ha,305,Ton
+2010,Ubi Kayu,25,Ha,290,Ton
+2011,Ubi Kayu,15,Ha,176,Ton
+2012,Ubi Kayu,4,Ha,46,Ton
+2013,Ubi Kayu,,Ha,,Ton
+2007,Ketela Pohon,54,Ha,628,Ton
+2008,Ketela Pohon,39,Ha,454,Ton
+2009,Ketela Pohon,26,Ha,305,Ton
+2010,Ketela Pohon,25,Ha,290,Ton
+2011,Ketela Pohon,15,Ha,176,Ton
+2012,Ketela Pohon,,Ha,,Ton
+2013,Ketela Pohon,,Ha,,Ton
+2007,Kacang Tanah,18,Ha,18,Ton
+2008,Kacang Tanah,17,Ha,17,Ton
+2009,Kacang Tanah,9,Ha,9,Ton
+2010,Kacang Tanah,9,Ha,10,Ton
+2011,Kacang Tanah,7,Ha,7,Ton
+2012,Kacang Tanah,1,Ha,1,Ton
+2013,Kacang Tanah,,Ha,,Ton
